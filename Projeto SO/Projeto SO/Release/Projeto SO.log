@@ -1,20 +1,19 @@
-﻿  stdafx.cpp
-  Projeto SO.cpp
-Projeto SO.cpp(28): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(31): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(34): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(44): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(53): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(62): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(72): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(83): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(97): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(107): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(117): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(147): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(163): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto SO.cpp(201): warning C4018: '<': incompatibilidade de signed/unsigned
+﻿  Projeto SO.cpp
+Projeto SO.cpp(37): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(45): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(54): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(63): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(73): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(84): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(98): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(108): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(118): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(148): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(164): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto SO.cpp(202): warning C4018: '<': incompatibilidade de signed/unsigned
   Gerando código
-  All 348 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  26 of 348 functions ( 7.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
   Finalizada a geração de código
   Projeto SO.vcxproj -> C:\Users\jvanj\source\repos\Projeto SO\Release\Projeto SO.exe
